@@ -1,0 +1,5 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+consolidation-etalab-schema-irve-statique-v-2.3.1-20260625.csv

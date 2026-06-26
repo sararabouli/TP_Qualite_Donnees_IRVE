@@ -1,0 +1,7 @@
+pandas
+numpy
+jupyter
+ipykernel
+matplotlib
+geopy
+great-expectations
