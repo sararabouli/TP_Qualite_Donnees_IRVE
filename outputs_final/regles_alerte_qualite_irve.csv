@@ -1,0 +1,6 @@
+﻿Indicateur,Seuil d'alerte,Justification
+Complétude globale (%),< 90 %,Une complétude globale inférieure à 90 % indique une dégradation générale du fichier.
+Complétude communes (%),< 95 %,La commune est indispensable pour les analyses territoriales IRVE.
+Taux de doublons (%),> 1 %,Un taux de doublons supérieur à 1 % peut fausser le comptage des points de charge.
+Lignes valides (%),< 95 %,Un taux inférieur à 95 % signifie qu'une part trop importante des lignes n'est pas exploitable.
+Validation Great Expectations,False,Un échec Great Expectations indique qu'au moins une règle qualité critique n'est pas respectée.

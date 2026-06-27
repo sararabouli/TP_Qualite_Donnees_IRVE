@@ -1,5 +1,30 @@
+# Environnements locaux
 .venv/
+venv/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Great Expectations local
+gx_irve/
+
+# Anciennes sorties intermédiaires
+outputs/
+
+# Cache
+cache_geocodage_irve.csv
 __pycache__/
 *.pyc
-consolidation-etalab-schema-irve-statique-v-2.3.1-20260625.csv
+
+# Gros fichiers de données
+data/consolidation-etalab-schema-irve-statique-v-2.3.1-20260625.csv
+outputs_final/dataset_irve_nettoye_enrichi.csv
+
+# Anciennes versions du notebook
+TP_Qualite_Donnees_IRVE_basma_sheryne_sara_bis*.ipynb
+TP_Qualite_Donnees_IRVE_solution_communes.ipynb
+TP_Qualite_Donnees_IRVE_VERSION_CORRIGEE.ipynb
+
+# Système
+.DS_Store
+Thumbs.db
